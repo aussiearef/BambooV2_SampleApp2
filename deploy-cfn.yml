@@ -31,7 +31,7 @@ Resources:
   LambdaFunction: 
     Type: AWS::Lambda::Function
     Properties:
-      FunctionName: !Ref 
+      FunctionName: !Ref ArtifactName
       Handler: lambda.lambda_handler
       Role: !GetAtt LambdaIamRole.Arn
       Code:
