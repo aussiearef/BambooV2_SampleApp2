@@ -36,7 +36,7 @@ Resources:
       Role: !GetAtt LambdaIamRole.Arn
       Code:
         S3Bucket: !Ref S3Bucket
-        S3Key: !Sub "${ArtifactName}.py"
+        S3Key: !Sub "${ArtifactName}.zip"
       Runtime: "python3.11"
       Timeout: 30
       MemorySize: 128
