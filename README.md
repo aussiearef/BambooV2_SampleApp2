@@ -7,8 +7,3 @@ This repository contains resources related to the Udemy course on Bamboo Continu
 Course Link: [Bamboo Continuous Integration for DevOps Developers](https://www.udemy.com/course/bamboo-continuous-integration-for-devops-developers/?referralCode=3019D7872D03BEE6CB5E)
 
 
-## More Free Courses on YouTube
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](http://www.youtube.com/@FreeTechnologyLectures)
-
-Subscribe to the Free Technology and Technology Management Courses channel for free lectures about Coding, DevOps, and Technology Management. [Here is the link to the YouTube channel](http://www.youtube.com/@FreeTechnologyLectures).
