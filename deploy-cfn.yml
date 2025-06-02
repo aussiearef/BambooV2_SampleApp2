@@ -39,4 +39,4 @@ Resources:
         S3Key: !Sub "${ArtifactName}.zip"
       Runtime: "python3.11"
       Timeout: 30
-      MemorySize: 128
+      MemorySize: 256

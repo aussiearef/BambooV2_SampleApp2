@@ -3,7 +3,7 @@ import json
 def lambda_handler(event, context):
     # Parse the incoming event
     body = {
-        "message": "Hello, World!"
+        "message": "API was called successfully",
     }
 
     # Create a response
